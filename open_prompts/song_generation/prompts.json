@@ -1,0 +1,21 @@
+{
+    "description": "",
+    "source": "https://www.notion.so/Song-Generation-35ee6ec9a3414f04946c2a362920effb",
+    "categories": [
+        "Generation"
+    ],
+    "prompts": [
+        {
+            "prompt": "VERSE:\nAlas my love,\nYou do me wrong,\nTo cast me off discourteously,\nfor i have loved you so long,\ndelighting in your company.\n\nCHORDS:\nAlas[Am] my[C] love,\nyou [G]do [Em]me wrong,\nto [Am]cast me off dis[E]courteously,\nfor [Am]i have[C] loved[G] you [Em]so long,\nde[Am]lighting in[E7] your [Am]company.\n\nVERSE:\nMy pangolin heart\nhas scales of bone\nblack and streaked with red\nhidden like a forgotten gem\nin the dusk\n\nCHORDS:",
+            "response": "My [F]pangolin [G]heart\nhas scales of [Am]bone\nblack and [C]streaked with [E]red\nhidden [F]like a forgotten [G]gem\nin the [C]dusk."
+        },
+        {
+            "prompt": "CHORDS (happy):",
+            "response": "My pangol[G]in [Em]heart has [Am]scales of [Am]bone\nmy [Am]forelegs [Em]fur[Em7]ry and [C]black,\nre[C]tractile [Em]elastic [C]spring[G]loaded [C]pincers\nand [G]looming like a [Am]hidden[Am] [Am]gem in the [Em]dusk"
+        },
+        {
+            "prompt": "Lyrics to #1 Chart Topping Hit \"Pangolin\", by Bono and Larry Mullen jr.",
+            "response": "Intro by Bono:\nNow my right hand man, Larry Mullen\nSings, and you know how we do it\nWith a perfect unisono\nYou'll need a translation when he speak it\nSo, let me break it down for you\nBut you can't break it down for us\nLarry,\nWhat did you see there, what did you feel?\nBeen wanting to ask ya for such a long time.\n\nPre-Chorus by Larry:\nI saw a hairy animal, with a tube like nose\nAnd big sharp points at the end of his toes\nCalled a Pangolin it's the most treasured animal in all of Africa\nFor it's fur and for it's meat it's a delicacy\nBut they will make a fine pelt for the lady in my life.\n\nBridge:\nLike a dying star\nIt fell from the sky in a blaze of glory\nLike the day of judgement\nI only read about it in the holy book of books\nAnd I can't help but wonder, will I be ready when it's my time?\nI'm alright, I'm alright, I'm alright\n\nSolo by Larry\nSolo by Adam\nSolo by Larry\n\nAnd every time that I think about that pangolin\nIt makes my spirit rise like the night of the eagle\nThough I'm out here chasing waterfalls\nI'm never gonna find one as sweet as my mother."
+        }
+    ]
+}

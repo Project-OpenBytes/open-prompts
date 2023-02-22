@@ -1,0 +1,13 @@
+{
+    "description": "",
+    "source": "https://andrewmayneblog.wordpress.com/2020/07/08/openai-api-alchemy-turn-a-script-into-a-novel-and-vice-versa/",
+    "categories": [
+        "Transformation"
+    ],
+    "prompts": [
+        {
+            "prompt": "I was asked to convert this script into a written story:\n\n\"\"\"\nDR JANE ELDER\nWhere do you think you're going?\n\nElder has a ray gun pointed at the man in the grey ski mask.\n\nMAN\nStay out of this!\n\nHe starts to move towards the door.\n\nDR JANE ELDER\nBad move.\n\nShe fires the gun over his head.\n\nDR JANE ELDER\nIf you want to walk out of here with anything above your neck I suggest you put the computer down and lay on the floor.\n\n\"\"\"\n\nThis is what I wrote:",
+            "response": "It was a tense situation. Dr. Jane Elder was trapped in a tiny exam room with a fleeing patient and a masked gunman holding her at gunpoint.\n\n\"Put the computer down!\" Dr. Elder demanded.\n\n\"Stay out of this!,\" the man in the ski mask yelled as he edged towards the door.\n\n\"Bad move,\" Dr. Elder warned.\n\nShe took a step towards him. Then she raised the gun and fired a shot over his head.\n\n\"If you want to walk out of here with anything above your neck I suggest you put the computer down and lay on the floor,\" Dr. Elder demanded.\n\n\nDr. Elder took another step toward him. The masked gunman squatted on the floor with the computer on his lap.\n\nDr. Elder took one step and kicked the computer out of his hands.\n\n\"Okay, I'll play,\" the masked gunman laughed. \"Give me a second while I turn this off.\"\n\nDr. Elder knelt down beside the computer and unplugged the cable. The masked gunman stood up. He was holding a remote control in his right hand.\n\nDr. Elder was still crouching with the computer on the floor when he pushed the button on the remote control and all the metal doors in the room slammed shut with a loud clank.\n\nThe masked gunman started to laugh.\n\nDr. Elder reached up to her hip and pulled a gun out of the holster."
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "description": "Put the code below into a new Playground instance and you'll start getting analogies.",
+    "source": "https://github.com/wgryc/gpt3-prompts/blob/master/analogies.md",
+    "categories": [],
+    "prompts": [
+        {
+            "prompt": "write : book :: paint : picture\ndrink : coffee :: eat : chicken\nsleep : bed :: drive : car\nride : horse :: sail :",
+            "response": ""
+        }
+    ]
+}

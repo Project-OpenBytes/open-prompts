@@ -1,0 +1,11 @@
+{
+    "description": "You can use the same prompt settings as the Playground's English to French option; just change the French settings to Python in the form, and enable line breaks in the output.",
+    "source": "https://github.com/wgryc/gpt3-prompts/blob/master/english-to-python.md",
+    "categories": [],
+    "prompts": [
+        {
+            "prompt": "English: print \"hi there\"\nPython: print('hi there')\n\nEnglish: loop 3 times, print 'x' each time\nPython: for i in range(0,3):\n   print('x')\n\nEnglish: A function that returns an argument to the power of 2\nPython: def func(x):\n   return x*x\n\nEnglish: A function that loops 10 times from 1 to 10 and adds the value to a total sum\nPython: def func():\n    sum = 0\n    for i in range(1,11):\n        sum += i\n    return sum\n\nEnglish: Code that prints \"hi\" three times.\nPython: print(\"hi\"); print(\"hi\"); print(\"hi\")\n\nEnglish: Code that prints today's date.\nPython: import datetime\nprint(datetime.datetime.now())\n\nEnglish: Code that asks the user for their name as a command line input.\nPython: name = input(\"What is your name?\")\n\nEnglish: Read a file into memory.",
+            "response": ""
+        }
+    ]
+}
