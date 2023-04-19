@@ -1,9 +1,7 @@
 {
     "description": "",
     "source": "https://andrewmayneblog.wordpress.com/2020/07/08/openai-api-alchemy-turn-a-script-into-a-novel-and-vice-versa/",
-    "categories": [
-        "Transformation"
-    ],
+    "categories": ["Transformation"],
     "prompts": [
         {
             "prompt": "I was asked to convert this script into a written story:\n\n\"\"\"\nDR JANE ELDER\nWhere do you think you're going?\n\nElder has a ray gun pointed at the man in the grey ski mask.\n\nMAN\nStay out of this!\n\nHe starts to move towards the door.\n\nDR JANE ELDER\nBad move.\n\nShe fires the gun over his head.\n\nDR JANE ELDER\nIf you want to walk out of here with anything above your neck I suggest you put the computer down and lay on the floor.\n\n\"\"\"\n\nThis is what I wrote:",

@@ -1,14 +1,19 @@
-## Cover Letter Generator
+# Cover Letter Generator
+
 ### Categories
+
 `Generation`
+
 ### Examples
 
 #### Example1
+
 Prompt
+
 ```
 Company: Spotify
 Job Description: We want someone to help build a new data pipeline for Spotify Unwrapped team using Apache Kafka and D3.js
-Resume: 
+Resume:
 - Worked as a Developer Advocate at Algolia, writing blog posts and speaking on behalf of the company
 - Worked as a Software Engineer at HBO, with AngularJS and GraphQL
 - Currently a Creative Technologist and Founder at Sharing Fiction, a creative agency that helps clients tell stories with technology.
@@ -18,6 +23,7 @@ Resume:
 ```
 
 Response
+
 ```
 "I'm a creative technologist and founder of Sharing Fiction, a creative agency that helps clients tell stories with technology. I'm also a writer and a musician.
 
@@ -30,9 +36,10 @@ I'd love to help Spotify Unwrapped tell more stories with data. I'm a big fan of
 I'd love to talk more about how I could help Spotify Unwrapped tell more stories with data."
 ```
 
-
 #### Example2
+
 Prompt
+
 ```
 Dear Deloitte graduate recruitment,
 
@@ -40,6 +47,7 @@ I'm writing to apply to join your graduate scheme in Technology Consulting.
 ```
 
 Response
+
 ```
 I'm a competitive and driven second year Physics graduate from the University of Bristol and have a passion for technology and science that I've been fostering for the last five years.
 
@@ -60,4 +68,5 @@ Ella Duffy
 ```
 
 ### Source
+
 <https://www.notion.so/Cover-Letter-Generator-8ac55d1145dc4243ae0dc97345e3661f>

@@ -1,9 +1,7 @@
 {
     "description": "",
     "source": "https://www.notion.so/Idea-Generator-3f5492dd27c44c23a1f1629e8fc03b00",
-    "categories": [
-        "Generation"
-    ],
+    "categories": ["Generation"],
     "prompts": [
         {
             "prompt": "Here is a list of 100 interesting ideas for new movie plots. Each plot is \ndescribed with a title and a summary paragraph:\n\n1. The Bird. \nA woman realizes that her pet bird is actually highly intelligent and able to communicate. The bird turns out to be a secret agent working for the CIA. The woman has to keep the bird's secret.\n\n2.",

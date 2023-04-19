@@ -1,9 +1,7 @@
 {
     "description": "With a described structure there is even less information given, consider the following prompt, now with a described JSON structure",
     "source": "https://blog.devgenius.io/how-to-get-gpt3-to-output-in-json-4e14c46aa5b6",
-    "categories": [
-        "Structure"
-    ],
+    "categories": ["Structure"],
     "prompts": [
         {
             "prompt": "Consider the following message:",

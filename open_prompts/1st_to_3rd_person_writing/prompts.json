@@ -1,9 +1,7 @@
 {
     "description": "",
     "source": "https://www.notion.so/1st-3rd-Person-Writing-ba3be8267da042498c5cc7430558c2a8",
-    "categories": [
-        "Transformation"
-    ],
+    "categories": ["Transformation"],
     "prompts": [
         {
             "prompt": "in: i started the business in 2010 we sell gift boxes with chocolates and other things\nout: The business was founded in 2010, and they sell gift boxes with chocolates and other items.\n \nin: we don't have any investors\nout: The company has taken no outside funding.\n \nin: our only major risk is our supplier who we depend on for 90% of our stock\nout: The company's main challenge is its dependence on a single supplier for 90 percent of its stock.\n \nin: We have a lot of loyal customers and are growing rapidly\nout: The company has a lot of loyal customers and is growing rapidly.\n \nin: we don't use social media for marketing\nout: The company doesn't use social media for marketing.\n \nin: i am currently in the process of opening up a new store\nout: The company is currently in the process of opening up a new store.\n\nin:",

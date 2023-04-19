@@ -1,17 +1,26 @@
-## Described Structure
+# Described Structure
+
 ### Categories
+
 `Structure`
+
 ### Description
-With a described structure there is even less information given, consider the following prompt, now with a described JSON structure
+
+With a described structure there is even less information given,
+consider the following prompt, now with a described JSON structure
+
 ### Examples
 
 #### Example1
+
 Prompt
+
 ```
 Consider the following message:
 ```
 
 Response
+
 ```
 {
     "sender": "Tarzan",
@@ -23,4 +32,5 @@ Response
 ```
 
 ### Source
+
 <https://blog.devgenius.io/how-to-get-gpt3-to-output-in-json-4e14c46aa5b6>

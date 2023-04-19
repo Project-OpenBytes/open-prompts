@@ -1,0 +1,47 @@
+---
+default_stages: [commit]
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: check-added-large-files
+      - id: check-case-conflict
+      - id: detect-private-key
+
+  - repo: https://github.com/pre-commit/mirrors-prettier
+    rev: v2.7.1
+    hooks:
+      - id: prettier
+        types_or: [markdown, json]
+        args: ["--print-width=100", "--tab-width=4"]
+      - id: prettier
+        name: prettier-yaml
+        types: [yaml]
+        args: ["--print-width=100", "--tab-width=2"]
+
+  - repo: https://github.com/adrienverge/yamllint
+    rev: v1.28.0
+    hooks:
+      - id: yamllint
+        types: [yaml]
+        args:
+          [
+            "--strict",
+            "--config-data",
+            "{extends: default, rules: {line-length: {max: 100}, truthy: {check-keys: false}}}",
+          ]
+
+  - repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: v0.32.2
+    hooks:
+      - id: markdownlint
+        types: [markdown]
+        args: ["--config=.markdownlint.json"]
+
+  - repo: https://github.com/jorisroovers/gitlint
+    rev: v0.18.0
+    hooks:
+      - id: gitlint
+        name: gitlint
+        args: ["--msg-filename"]
+        stages: [commit-msg]
