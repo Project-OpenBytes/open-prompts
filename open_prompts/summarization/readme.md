@@ -1,19 +1,22 @@
-## Summarization
+# Summarization
+
 ### Categories
 
 ### Examples
 
 #### Example1
+
 Prompt
+
 ```
 My second grader asked me what this passage means:
 
 """
 
-Overnight trading for the NYSE Index futures was a bit volatile, 
-dropping by about 3% to the downside before moving sharply back to the upside. 
-Gold futures were unchanged and the E-mini NASDAQ 100 futures remained near 
-unchanged. The yield on the 10-year Treasury bond finished unchanged from its 
+Overnight trading for the NYSE Index futures was a bit volatile,
+dropping by about 3% to the downside before moving sharply back to the upside.
+Gold futures were unchanged and the E-mini NASDAQ 100 futures remained near
+unchanged. The yield on the 10-year Treasury bond finished unchanged from its
 close of 2.45% earlier today.
 
 """
@@ -32,15 +35,17 @@ I rephrased it for him, in plain language a second grader can understand:
 ```
 
 Response
+
 ```
-The price of gold did not change. The NASDAQ 100 is a stock index. 
-The NASDAQ 100 went up a little bit. The price of the 10-year Treasury bond 
+The price of gold did not change. The NASDAQ 100 is a stock index.
+The NASDAQ 100 went up a little bit. The price of the 10-year Treasury bond
 did not change.
 ```
 
-
 #### Example2
+
 Prompt
+
 ```
 My second grader asked me what this passage means:
 
@@ -56,10 +61,12 @@ I rephrased it for him, in plain language a second grader can understand:
 ```
 
 Response
+
 ```
-This means that if you tell anyone else something I told you in private, I can sue you and make you pay me lots of money. It also means that if I tell you something in private, I can sue you if you tell anyone else. It also means that if I tell 
+This means that if you tell anyone else something I told you in private, I can sue you and make you pay me lots of money. It also means that if I tell you something in private, I can sue you if you tell anyone else. It also means that if I tell
 you something in private and then I change my mind and want to tell everyone else about it, I can sue you if you tell anyone else first.
 ```
 
 ### Source
+
 <https://www.notion.so/Summarization-69a5c64efb2f463f9eb556485f0e2fcc>

@@ -1,10 +1,15 @@
-## Script to Novel
+# Script to Novel
+
 ### Categories
+
 `Transformation`
+
 ### Examples
 
 #### Example
+
 Prompt
+
 ```
 I was asked to convert this script into a written story:
 
@@ -33,6 +38,7 @@ This is what I wrote:
 ```
 
 Response
+
 ```
 It was a tense situation. Dr. Jane Elder was trapped in a tiny exam room with a fleeing patient and a masked gunman holding her at gunpoint.
 
@@ -63,4 +69,5 @@ Dr. Elder reached up to her hip and pulled a gun out of the holster.
 ```
 
 ### Source
+
 <https://andrewmayneblog.wordpress.com/2020/07/08/openai-api-alchemy-turn-a-script-into-a-novel-and-vice-versa/>

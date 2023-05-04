@@ -1,9 +1,7 @@
 {
     "description": "",
     "source": "https://www.notion.so/Song-Generation-35ee6ec9a3414f04946c2a362920effb",
-    "categories": [
-        "Generation"
-    ],
+    "categories": ["Generation"],
     "prompts": [
         {
             "prompt": "VERSE:\nAlas my love,\nYou do me wrong,\nTo cast me off discourteously,\nfor i have loved you so long,\ndelighting in your company.\n\nCHORDS:\nAlas[Am] my[C] love,\nyou [G]do [Em]me wrong,\nto [Am]cast me off dis[E]courteously,\nfor [Am]i have[C] loved[G] you [Em]so long,\nde[Am]lighting in[E7] your [Am]company.\n\nVERSE:\nMy pangolin heart\nhas scales of bone\nblack and streaked with red\nhidden like a forgotten gem\nin the dusk\n\nCHORDS:",

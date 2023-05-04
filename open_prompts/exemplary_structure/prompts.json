@@ -1,9 +1,7 @@
 {
     "description": "We have a letter from Tarzan from the jungle to Jane. We want to process this letter and put the relevant information in the JSON. Below you can see the full prompt where we first have that letter, then the processing instructions, and an example JSON structure.",
     "source": "https://blog.devgenius.io/how-to-get-gpt3-to-output-in-json-4e14c46aa5b6",
-    "categories": [
-        "Structure"
-    ],
+    "categories": ["Structure"],
     "prompts": [
         {
             "prompt": "Consider the following message:",

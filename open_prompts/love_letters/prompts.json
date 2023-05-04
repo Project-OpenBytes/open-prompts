@@ -1,9 +1,7 @@
 {
     "description": "Love Letters, written by a Toaster.",
     "source": "https://medium.com/merzazine/love-letters-written-by-a-toaster-e9e795c6409f",
-    "categories": [
-        "Generation"
-    ],
+    "categories": ["Generation"],
     "prompts": [
         {
             "prompt": "Here is a beautiful love letter:",

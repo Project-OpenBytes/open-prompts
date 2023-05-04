@@ -1,9 +1,7 @@
 {
     "description": "",
     "source": "https://www.notion.so/Cover-Letter-Generator-8ac55d1145dc4243ae0dc97345e3661f",
-    "categories": [
-        "Generation"
-    ],
+    "categories": ["Generation"],
     "prompts": [
         {
             "prompt": "Company: Spotify\nJob Description: We want someone to help build a new data pipeline for Spotify Unwrapped team using Apache Kafka and D3.js\nResume: \n- Worked as a Developer Advocate at Algolia, writing blog posts and speaking on behalf of the company\n- Worked as a Software Engineer at HBO, with AngularJS and GraphQL\n- Currently a Creative Technologist and Founder at Sharing Fiction, a creative agency that helps clients tell stories with technology.\n- Favorite Tools: Processing, Unity, Swift, ARKit, NodeJS\n\n''''",

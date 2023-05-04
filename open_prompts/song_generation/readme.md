@@ -1,10 +1,15 @@
-## Song Generation
+# Song Generation
+
 ### Categories
+
 `Generation`
+
 ### Examples
 
 #### Example1
+
 Prompt
+
 ```
 VERSE:
 Alas my love,
@@ -31,6 +36,7 @@ CHORDS:
 ```
 
 Response
+
 ```
 My [F]pangolin [G]heart
 has scales of [Am]bone
@@ -39,14 +45,16 @@ hidden [F]like a forgotten [G]gem
 in the [C]dusk.
 ```
 
-
 #### Example2
+
 Prompt
+
 ```
 CHORDS (happy):
 ```
 
 Response
+
 ```
 My pangol[G]in [Em]heart has [Am]scales of [Am]bone
 my [Am]forelegs [Em]fur[Em7]ry and [C]black,
@@ -54,14 +62,16 @@ re[C]tractile [Em]elastic [C]spring[G]loaded [C]pincers
 and [G]looming like a [Am]hidden[Am] [Am]gem in the [Em]dusk
 ```
 
-
 #### Example3
+
 Prompt
+
 ```
 Lyrics to #1 Chart Topping Hit "Pangolin", by Bono and Larry Mullen jr.
 ```
 
 Response
+
 ```
 Intro by Bono:
 Now my right hand man, Larry Mullen
@@ -100,4 +110,5 @@ I'm never gonna find one as sweet as my mother.
 ```
 
 ### Source
+
 <https://www.notion.so/Song-Generation-35ee6ec9a3414f04946c2a362920effb>

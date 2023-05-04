@@ -1,12 +1,18 @@
-## English to Python
+# English to Python
+
 ### Categories
 
 ### Description
-You can use the same prompt settings as the Playground's English to French option; just change the French settings to Python in the form, and enable line breaks in the output.
+
+You can use the same prompt settings as the Playground's English to French option;
+just change the French settings to Python in the form, and enable line breaks in the output.
+
 ### Examples
 
 #### Example
+
 Prompt
+
 ```
 English: print "hi there"
 Python: print('hi there')
@@ -40,8 +46,11 @@ English: Read a file into memory.
 ```
 
 Response
+
 ```
+
 ```
 
 ### Source
+
 <https://github.com/wgryc/gpt3-prompts/blob/master/english-to-python.md>
